@@ -199,10 +199,10 @@ main {
 .submit-btn {
   border-radius: var(--radius);
   border-color: transparent;
-  padding: 0.25rem 0.5rem;
+  padding: 0.25rem 0.75rem;
   display: block;
   width: 35%;
-  margin-left: auto;
+  margin: 0 auto;
   margin-top: 2rem;
   text-transform: capitalize;
   font-weight: 700;
