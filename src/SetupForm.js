@@ -20,6 +20,8 @@ const SetupForm = () => {
                     <option value="history">history</option>
                     <option value="sports">sports</option>
                     <option value="politics">politics</option>
+                    <option value="mythology">mythology</option>
+                    <option value="general_knowledge">general knowledge</option>
                 </select>
               </div>
               <div className="form-control">
